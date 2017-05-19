@@ -1,0 +1,12 @@
+colorscheme ron
+set incsearch
+set tabstop=4
+set hlsearch
+set number 
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set encoding=latin1
+set isprint=
+set display+=uhex
+set ignorecase
